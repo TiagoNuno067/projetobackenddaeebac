@@ -11,3 +11,4 @@ maximo_divisor_comum = mdc(num1,num2)
 
 print(f'O maximo divisor comum é {maximo_divisor_comum}')
 
+print('Fim do programa')
